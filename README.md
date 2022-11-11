@@ -1,2 +1,2 @@
 # pruebas
-Diversas pruebas
+Diversas pruebas realizadas en Python
